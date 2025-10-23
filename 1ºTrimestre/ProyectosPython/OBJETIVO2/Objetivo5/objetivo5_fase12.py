@@ -1,5 +1,8 @@
+# Daniel García Méndez 2ºDAM
+
 import math
 
+# Funciones de operaciones (sumar, restar, multiplicar, dividir,potencia,raíz cuadrada y módulo.)
 def sumar(n1, n2):
     return n1 + n2
 
@@ -21,6 +24,8 @@ def raiz_cuadrada(n1):
 def modulo(n1, n2):
     return n1 % n2
 
+
+# menú de opciones con las operaciones de encima.
 def menu():
     continuar = True
     while continuar:
